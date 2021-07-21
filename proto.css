@@ -237,10 +237,11 @@ table {
     margin-top:20px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .gallery img{
-    width:500px;
-    height:400px;
+    width:400px;
+    height:auto;
     margin:20px;
     box-sizing: border-box;
     display: block;
