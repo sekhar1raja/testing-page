@@ -238,6 +238,7 @@ table {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 .gallery img{
     width:400px;
